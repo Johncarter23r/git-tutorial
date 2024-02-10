@@ -3,6 +3,6 @@ using namespace std;
 
 int main()
 {
-    cout << "Version cpp 2 " << endl;
+    cout << "Version cpp 3" << endl;
     cout << "Second " << endl;
 }
